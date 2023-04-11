@@ -1,5 +1,7 @@
 # ARIMA on Swaps
 
+{Not functional yet!}
+
 This project uses time series forecasting to predict future trading frequency in Uniswap data. The project is structured as follows:
 
 - `data/`: Contains all the data used in the project, split into `raw/` and `processed/` folders for raw and preprocessed data respectively. It also contains a `models/` folder to store trained models.
